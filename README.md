@@ -11,6 +11,14 @@ This project analyzes Electronic Health Record (EHR) data for completeness, cons
 - Unusual weight difference detection
 - Modular structure (easy to extend)
 
+## Sample Checks Included :
+1)Missing Values Summary
+2)Missing or Invalid Age
+3)Invalid Gender
+4)Weight Drop Issues
+5)Missing Discharge Status
+
+## project Structure
 
 ehr-data-quality-auditor/
 ├── data/
@@ -22,11 +30,4 @@ ehr-data-quality-auditor/
 ├── main.py # Terminal-based manual data entry
 ├── requirements.txt # Dependencies
 └── README.md # You're reading this
-
-Sample Checks Included :
-1)Missing Values Summary
-2)Missing or Invalid Age
-3)Invalid Gender
-4)Weight Drop Issues
-5)Missing Discharge Status
 
