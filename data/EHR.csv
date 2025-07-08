@@ -1,0 +1,22 @@
+patientunitstayid,gender,age,ethnicity,hospitalid,apacheadmissiondx,hospitaladmittime24,hospitaldischargeoffset,hospitaldischargestatus,admissionweight,dischargeweight
+1001,Female,67.0,Caucasian,101,CHF,01:15:00,5291,Alive,136.4,108.0
+1002,Male,74.0,African American,102,Pneumonia,08:01:00,6353,,100.0,
+1003,Female,-5.0,Caucasian,103,Bleeding,21:49:00,5536,Alive,75.5,72.9
+1004,Female,68.0,Caucasian,104,Bleeding,16:18:00,8763,Alive,56.8,115.5
+1005,Male,130.0,Caucasian,105,Sepsis,19:50:00,11718,Alive,87.2,88.0
+1006,Female,16.0,Caucasian,106,Overdose,05:47:00,2160,,86.2,84.8
+1007,Male,45.0,Hispanic,107,Stroke,13:30:00,4090,Expired,90.0,80.0
+1008,Female,29.0,Asian,108,Asthma,22:20:00,3890,Alive,70.3,70.0
+1009,Male,51.0,Other,109,Heart Failure,10:05:00,4600,Alive,85.0,82.5
+1010,Female,38.0,African American,110,Sepsis,07:55:00,6200,Alive,76.8,78.2
+1011,Male,79.0,Caucasian,111,Diabetes,06:10:00,5321,Alive,95.4,90.3
+1012,Female,23.0,Asian,112,Pneumonia,15:00:00,5901,Alive,65.7,65.7
+1013,Male,0.0,Caucasian,113,Neonatal Jaundice,12:45:00,300,Alive,3.2,3.1
+1014,Female,101.0,Other,114,Renal Failure,18:30:00,8345,Alive,60.0,61.0
+1015,Male,35.0,Hispanic,115,Bronchitis,21:30:00,4011,Alive,72.5,72.0
+1016,Female,50.0,Caucasian,116,Chest Pain,04:55:00,2000,Alive,80.0,78.0
+1017,Male,90.0,Asian,117,Stroke,02:20:00,7122,Expired,88.0,80.0
+1018,Female,28.0,African American,118,Pneumonia,09:10:00,5123,Alive,68.0,67.5
+1019,Male,60.0,Caucasian,119,Hypertension,14:35:00,4666,Alive,84.3,84.3
+1020,Female,72.0,Hispanic,120,COPD,17:00:00,5021,Alive,77.0,75.0
+111,Male,12.0,Indian,21,Fever,12:00:00,90,Alive,25.0,26.0
